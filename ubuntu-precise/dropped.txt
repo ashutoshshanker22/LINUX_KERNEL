@@ -1,1 +1,0 @@
-UBUNTU: SAUCE: (no-up) Restore VT fonts on switch
